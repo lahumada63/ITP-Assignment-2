@@ -61,3 +61,13 @@ Below are the current products that The College Dorm Pantry will include:
 The College Dorm Pantry connects to our CPP Farm Store project because it helps me compare and think about how an on campus retail store can organize products around customer needs. The CPP Farm Store already serves students, faculty, and the local community, but an online store can make it easier for customers to browse products before visiting. My shopify concept allows me to see how the farm store could create student focused bundles just like they create gift baskets for the local community to purchase. It also helps me understand how product categories, homepage design, and online merchandising can improve convenience, increase customer interest, and support the physical store experience as well.
 
 # 
+
+# Appendix
+
+Github page link:
+
+<https://lahumada63.github.io/ITP-Assignment-2/>
+
+Repo Link:
+
+<https://github.com/lahumada63/ITP-Assignment-2>
