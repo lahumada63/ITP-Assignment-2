@@ -1,0 +1,61 @@
+---
+title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
+author: "Luis Ahumada"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## Store Name and Concept
+
+## Store Name
+
+**The College Dorm Pantry**
+
+## Store Concept
+
+The College Dorm Pantry is a fake shopify store that I created and it is designed for college students who want convenient snacks, simple meal kits, coffee items, and study bundles all in one place. The store focuses on dorm friendly goods that are affordable, easy to store, and useful for busy students who may not always have time to go to the grocery store or prep full meals. The store sells items such as finals week week snack boxes, commuter breakfast kits, ramen upgrade packs, and emergency school supply kits. THe goal of the store is to make college life easier by organizing products around student needs.
+
+# Target Customer
+
+The target customer of The College Dorm Pantry is a college student. The customer may live in a dorm or rent an apartment near campus, and it also caters to students who commute. Many of these students are busy balancing school, work, and life responsibilities so this store's goal is to make sure our students have what they need at an affordable price.
+
+# Product Category Plan
+
+Below are the current products that The College Dorm Pantry will include:
+
+| Product Category | Example Products | Purpose |
+|------------------------|------------------------|------------------------|
+| Study Snack Box | Chips, granola bars, trail mix, etc. | Provides snacks for students for studying, homework, and exams |
+| Coffee and Energy Kits | Instant Coffee, tea, energy drinks, etc. | Helps students stay energized during the day |
+| School Supplies | Bundles for finals, schools supplies, etc. | Creates themed products for important times during the semester |
+| Healthy Grab and Go Snack | Fruits, nuts, protein bars, etc. | Provides balanced snack options for the studnets |
+| Ramen Upgrade Package | Packages with instant ramen and toppings to make it better | makes simple dorm meals easier and better |
+
+# Initial Shopify Setup Evidence
+
+## Shopify Admin Area
+
+![](images/clipboard-2383518871.jpeg)
+
+## Selected Theme
+
+![](images/clipboard-3105166110.jpeg)
+
+## Homepage Draft or Theme Customization Page
+
+![](images/clipboard-1553046975.jpeg)
+
+# Connection to CPP Farm Store
+
+The College Dorm Pantry connects to our CPP Farm Store project because it helps me compare and think about how an on campus retail store can organize products around customer needs. The CPP Farm Store already serves students, faculty, and the local community, but an online store can make it easier for customers to browse products before visiting. My shopify concept allows me to see how the farm store could create student focused bundles just like they create gift baskets for the local community to purchase. It also helps me understand how product categories, homepage design, and online merchandising can improve convenience, increase customer interest, and support the physical store experience as well.
+
+# 
