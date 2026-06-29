@@ -1,7 +1,8 @@
 ---
-title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
+title: "ITP-Shopify Store - Assignment 2 - Store Concept and Initial Shopify Setup"
 author: "Luis Ahumada"
 date: today
+output-file: index.html
 format: 
   html: 
     toc: true
@@ -12,6 +13,7 @@ format:
 editor: visual
 execute: 
   freeze: auto
+  echo: false
 ---
 
 ## Store Name and Concept
